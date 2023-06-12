@@ -1,0 +1,4 @@
+<resources>
+    <!-- TODO: Ajoutez ici votre clé d'API Google Maps -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBrZUyjfqbLLk4Pgy7ZsZI5OlX-H7wNCs0</string>
+</resources>
